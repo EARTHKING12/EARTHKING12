@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pruthviraj Rathod</h1>
 <h3 align="center">A passionate frontend developer from India and</h3>
-<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.a](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dmobile%2Btechnology%2Bcartoon&psig=AOvVaw3PteKg4qVB4QUHdet_qgJv&ust=1718095641138000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjsoZjT0IYDFQAAAAAdAAAAABAE)" alt="">
 
 - 🔭 I’m currently working on **personal portfolio website**
 
