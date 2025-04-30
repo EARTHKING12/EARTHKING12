@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **clg Application**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/feed/]([https://www.linkedin.com/feed/](https://www.linkedin.com/in/pruthviraj-rathod-14a9302b0/))
 
 - 💬 Ask me about **C,C++,HTML,CSS,JS,JAVA,PYTHON,ANDROID**
 
