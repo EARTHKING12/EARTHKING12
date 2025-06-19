@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pruthviraj Rathod</h1>
-<h3 align="center">A passionate frontend developer from India and</h3>
+<h3 align="center">A passionate frontend developer and</h3>
 
 - 🔭 I’m currently working on **personal portfolio website**
 - 🌱 I’m currently learning **DAS, Web development, Python**
