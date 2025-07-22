@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer and</h3>
 
 - 🔭 I’m currently working on **CodeSpringer website**
-- 🌱 I’m currently learning **DAS, Web development, Python**
+- 🌱 I’m currently learning **DSA, Web development, Python**
 - 👯 I’m looking to collaborate on **virtual assistant**
 - 🤝 I’m looking for help with **clg Application**
 - 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/pruthviraj-rathod-14a9302b0/)
