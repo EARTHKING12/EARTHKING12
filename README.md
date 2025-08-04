@@ -2,11 +2,11 @@
 <h3 align="center">A passionate frontend developer and</h3>
 
 - 🔭 I’m currently working on **EcoBin App**
-- 🌱 I’m currently learning **DSA, Web development, Python**
-- 👯 I’m looking to collaborate on **virtual assistant**
+- 🌱 I’m currently learning **DSA, App development, JAVA**
+- 👯 I’m looking to collaborate on **Smart Traveller**
 - 🤝 I’m looking for help with **clg Application**
 - 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/pruthviraj-rathod-14a9302b0/)
-- 💬 Ask me about **C, C++, HTML, CSS, JS, JAVA, PYTHON, ANDROID**
+- 💬 Ask me about **C, C++, HTML, CSS, JAVA, PYTHON, ANDROID**
 - 📫 How to reach me **pruthvirajrathod645@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
