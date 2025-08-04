@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pruthviraj Rathod</h1>
 <h3 align="center">A passionate frontend developer and</h3>
 
-- 🔭 I’m currently working on **CodeSpringer website**
+- 🔭 I’m currently working on **EcoBin App**
 - 🌱 I’m currently learning **DSA, Web development, Python**
 - 👯 I’m looking to collaborate on **virtual assistant**
 - 🤝 I’m looking for help with **clg Application**
