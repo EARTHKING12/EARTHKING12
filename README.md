@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **DSA, App development, JAVA**
 - 👯 I’m looking to collaborate on **Smart Traveller**
 - 🤝 I’m looking for help with **clg Application**
-- 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/pruthviraj-rathod-14a9302b0/)
+- 👨‍💻  Let’s connect on LinkedIn — here’s my profile [LinkedIn](https://www.linkedin.com/in/pruthviraj-rathod-14a9302b0/)
 - 💬 Ask me about **C, C++, HTML, CSS, JAVA, PYTHON, ANDROID**
 - 📫 How to reach me **pruthvirajrathod645@gmail.com**
 
