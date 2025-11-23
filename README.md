@@ -14,7 +14,7 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/pruthviraj-rathod-14a9302b0/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
@@ -29,7 +29,7 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages & Tools:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
@@ -47,14 +47,34 @@
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=earthking12&layout=compact&theme=tokyonight" />
-</p>
+<h3 align="left">📊 GitHub Stats</h3>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=earthking12&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=earthking12&theme=tokyonight" />
-</p>
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=earthking12&layout=compact&show_icons=true&theme=tokyonight" 
+    alt="Top Languages"
+    height="200"
+  />
+
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=earthking12&show_icons=true&theme=tokyonight" 
+    alt="GitHub Stats"
+    height="200"
+  />
+
+  <!-- Streak Stats -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=earthking12&theme=tokyonight" 
+    alt="GitHub Streak" 
+    height="200"
+  />
+
+</div>
+
+---
+
+<h3 align="center">✨ Thanks for visiting my profile!</h3>
+<p align="center">⭐ Don't forget to star repositories you like!</p>
