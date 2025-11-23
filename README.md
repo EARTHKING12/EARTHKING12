@@ -62,14 +62,6 @@
 
 <div align="center">
 
-  <!-- GitHub Streak -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=earthking12&theme=tokyonight&hide_border=false" 
-    alt="GitHub Streak Stats" 
-    width="500"
-  />
-
-  <br/><br/>
 
   <!-- GitHub Stats -->
   <img 
