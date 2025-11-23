@@ -7,8 +7,6 @@
 - 🌱 I’m currently learning **DSA, App Development, Java**
 - 👯 I’m looking to collaborate on **Smart Traveller**
 - 🤝 I’m looking for help with **College Application**
-- 👨‍💻 Connect with me on **LinkedIn** —  
-  <a href="https://www.linkedin.com/in/pruthviraj-rathod-14a9302b0/" target="_blank">Click Here</a>
 - 💬 Ask me about **C, C++, HTML, CSS, Java, Python, Android**
 - 📫 Reach me at **pruthvirajrathod645@gmail.com**
 
@@ -47,40 +45,34 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
-
-<div align="center">
-
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=earthking12&layout=compact&show_icons=true&theme=tokyonight" 
-    alt="Top Languages"
-    height="200"
-  />
-
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
 
-
   <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=earthking12&show_icons=true&theme=tokyonight&hide_border=false" 
-    alt="GitHub Stats Card"
-    width="500"
+    src="https://github-readme-stats.vercel.app/api?username=earthking12&show_icons=true&theme=tokyonight" 
+    alt="GitHub Stats"
+    width="55%"
   />
-
   <br/><br/>
 
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=earthking12&layout=compact&theme=tokyonight&hide_border=false" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=earthking12&layout=compact&theme=tokyonight"
     alt="Top Languages"
-    width="400"
+    width="40%"
+  />
+  <br/><br/>
+
+  <!-- Streak Stats -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=earthking12&theme=tokyonight"
+    alt="GitHub Streak"
+    width="55%"
   />
 
 </div>
-
 
 ---
 
