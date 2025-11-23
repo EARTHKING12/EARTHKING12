@@ -47,32 +47,20 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-<!-- GitHub Stats -->
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=earthking12&show_icons=true&theme=tokyonight" 
-    alt="GitHub Stats"
-    width="55%"
-  />
-</p>
+### 📊 GitHub Stats
 
-<!-- Top Languages -->
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=earthking12&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-    width="40%"
-  />
-</p>
+<!-- GitHub Dashboard Style Metrics -->
+<img src="https://github-readme-metrics.vercel.app/api/metrics?username=earthking12&template=classic&config.timezone=Asia%2FCalcutta" alt="GitHub Metrics" />
 
-<!-- Streak Stats -->
-<p align="left">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=earthking12&theme=tokyonight"
-    alt="GitHub Streak"
-    width="55%"
-  />
-</p>
+<!-- Languages Card -->
+<img src="https://github-readme-metrics.vercel.app/api/metrics?username=earthking12&template=languages&config.timezone=Asia%2FCalcutta" alt="Languages" />
+
+<!-- Achievements + Stats Card -->
+<img src="https://github-readme-metrics.vercel.app/api/metrics?username=earthking12&template=achievements&config.timezone=Asia%2FCalcutta" alt="GitHub Achievements" />
+
+<!-- Streak Card -->
+<img src="https://github-readme-metrics.vercel.app/api/metrics?username=earthking12&template=streak&config.timezone=Asia%2FCalcutta" alt="GitHub Streak" />
+
 
 ---
 
