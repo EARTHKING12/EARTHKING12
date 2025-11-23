@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning **DSA, App Development, Java**
 - 👯 I’m looking to collaborate on **Smart Traveller**
 - 🤝 I’m looking for help with **College Application**
-- 👨‍💻 Connect with me on  
-  <a href="https://www.linkedin.com/in/pruthviraj-rathod-14a9302b0/" target="_blank">LinkedIn</a>
+- 👨‍💻 Connect with me on **LinkedIn** —  
+  <a href="https://www.linkedin.com/in/pruthviraj-rathod-14a9302b0/" target="_blank">Click Here</a>
 - 💬 Ask me about **C, C++, HTML, CSS, Java, Python, Android**
 - 📫 Reach me at **pruthvirajrathod645@gmail.com**
 
@@ -47,30 +47,14 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=earthking12&layout=compact&theme=tokyonight" />
+</p>
 
-<div align="center">
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=earthking12&show_icons=true&theme=tokyonight" />
+</p>
 
-  <p>
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktibhoskar&layout=compact&theme=tokyonight" 
-      alt="Top Languages" 
-    />
-  </p>
-
-  <p>
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=bhaktibhoskar&show_icons=true&theme=tokyonight" 
-      alt="GitHub Stats" 
-    />
-  </p>
-
-  <p>
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=bhaktibhoskar&theme=tokyonight" 
-      alt="GitHub Streak" 
-    />
-  </p>
-
-</div>
-
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=earthking12&theme=tokyonight" />
+</p>
