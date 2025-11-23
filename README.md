@@ -45,34 +45,34 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="left">📊 GitHub Stats</h3>
 
-<div align="center">
-
-  <!-- GitHub Stats -->
+<!-- GitHub Stats -->
+<p align="left">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=earthking12&show_icons=true&theme=tokyonight" 
     alt="GitHub Stats"
     width="55%"
   />
-  <br/><br/>
+</p>
 
-  <!-- Top Languages -->
+<!-- Top Languages -->
+<p align="left">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=earthking12&layout=compact&theme=tokyonight"
     alt="Top Languages"
     width="40%"
   />
-  <br/><br/>
+</p>
 
-  <!-- Streak Stats -->
+<!-- Streak Stats -->
+<p align="left">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=earthking12&theme=tokyonight"
     alt="GitHub Streak"
     width="55%"
   />
-
-</div>
+</p>
 
 ---
 
