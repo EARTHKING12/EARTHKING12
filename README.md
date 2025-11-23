@@ -1,78 +1,76 @@
-<!-- Banner -->
-<img src="https://i.imgur.com/zkYl7KT.gif" width="100%" />
-
 <h1 align="center">Hi 👋, I'm Pruthviraj Rathod</h1>
-
-<!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=4DF7FF&width=800&lines=Frontend+Developer;App+Developer;Tech+Enthusiast;Always+learning+new+things!">
-</p>
+<h3 align="center">A passionate Frontend Developer & App Enthusiast</h3>
 
 ---
 
-## 🚀 About Me  
-- 🔭 Currently working on **EcoBin App**  
-- 🌱 Learning **DSA, App Development & Java**  
-- 👯 Open to collaborate on **Smart Traveller**  
-- 🤝 Looking for help with **College Application**  
-- 💬 Ask me about **C, C++, Java, Python, HTML, CSS, Android**  
-- 📫 Reach me at **pruthvirajrathod645@gmail.com**  
-- 🔗 Connect on **LinkedIn**:  
-  <a href="https://www.linkedin.com/in/pruthviraj-rathod-14a9302b0/">Click Here</a>
+- 🔭 I’m currently working on **EcoBin App**
+- 🌱 I’m currently learning **DSA, App Development, Java**
+- 👯 I’m looking to collaborate on **Smart Traveller**
+- 🤝 I’m looking for help with **College Application**
+- 👨‍💻 Connect with me on  
+  <a href="https://www.linkedin.com/in/pruthviraj-rathod-14a9302b0/" target="_blank">LinkedIn</a>
+- 💬 Ask me about **C, C++, HTML, CSS, Java, Python, Android**
+- 📫 Reach me at **pruthvirajrathod645@gmail.com**
 
 ---
 
-## 🌐 Connect With Me
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/pruthviraj-rathod-14a9302b0/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-  <a href="https://www.instagram.com/"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
-  <a href="https://www.facebook.com/"><img src="https://skillicons.dev/icons?i=facebook" width="45"/></a>
+  <a href="https://www.linkedin.com/in/pruthviraj-rathod-14a9302b0/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,js,python,androidstudio,firebase,git,mysql,linux" />
+  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<h3 align="left">📊 GitHub Stats</h3>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=earthking12&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=earthking12&layout=compact&theme=tokyonight" height="170" />
+
+  <p>
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktibhoskar&layout=compact&theme=tokyonight" 
+      alt="Top Languages" 
+    />
+  </p>
+
+  <p>
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=bhaktibhoskar&show_icons=true&theme=tokyonight" 
+      alt="GitHub Stats" 
+    />
+  </p>
+
+  <p>
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=bhaktibhoskar&theme=tokyonight" 
+      alt="GitHub Streak" 
+    />
+  </p>
+
 </div>
 
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=earthking12&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Achievements & Badges
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=earthking12&theme=onedark&margin-w=10&margin-h=10" />
-</p>
-
----
-
-## 🚀 Fun Animation  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_rounded.gif" width="240px"/>
-</p>
-
----
-
-## 🌟 Quote of the Day  
-<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
-
----
-
-## ⭐ Thanks for Visiting!
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=earthking12&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
