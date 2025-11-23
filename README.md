@@ -58,21 +58,37 @@
     height="200"
   />
 
-  <!-- GitHub Stats -->
+<h3 align="center">📊 GitHub Stats</h3>
+
+<div align="center">
+
+  <!-- GitHub Streak -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=earthking12&show_icons=true&theme=tokyonight" 
-    alt="GitHub Stats"
-    height="200"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=earthking12&theme=tokyonight&hide_border=false" 
+    alt="GitHub Streak Stats" 
+    width="500"
   />
 
-  <!-- Streak Stats -->
+  <br/><br/>
+
+  <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=earthking12&theme=tokyonight" 
-    alt="GitHub Streak" 
-    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=earthking12&show_icons=true&theme=tokyonight&hide_border=false" 
+    alt="GitHub Stats Card"
+    width="500"
+  />
+
+  <br/><br/>
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=earthking12&layout=compact&theme=tokyonight&hide_border=false" 
+    alt="Top Languages"
+    width="400"
   />
 
 </div>
+
 
 ---
 
